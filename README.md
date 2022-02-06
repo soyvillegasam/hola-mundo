@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Repositorio de prueba
 
 Autor: Alexis V.
